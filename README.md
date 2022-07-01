@@ -1,7 +1,7 @@
 # Extraction Module
 -----------------------------------------------
-This is not the full framework required for the scripts to work
------------------------------------------------
+*This is not the full framework required for the scripts to work*
+
 Author: Laura Dal Toso 
 Date: 31 May 2022
 Based on work by: Anna Mira, Richard Burns
