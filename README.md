@@ -1,5 +1,7 @@
 # Extraction Module
 -----------------------------------------------
+This is not the full framework required for the scripts to work
+-----------------------------------------------
 Author: Laura Dal Toso 
 Date: 31 May 2022
 Based on work by: Anna Mira, Richard Burns
@@ -13,7 +15,6 @@ Required subfolders:
 
 -----------------------------------------------
 Files in main folder: 
-- extract_gp_points_kcl_RB : builds SliceInfoFile and GPFile
 - process_gpFiles : post-process the GPFiles
 
 -----------------------------------------------
