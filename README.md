@@ -19,6 +19,4 @@ Files in main folder:
 
 -----------------------------------------------
 How to use:
-- extract_gp_points_kcl_RB: use this module to build GPFile and SliceInfoFile. Input is a .cvi42 file containing contours, and a txt file containing the dicom metadata. 
-
-- process_gpfiles: use this as a second step, to post-process the newly created SliceInfoFile and GPFile. Tune parameter 'workers' to set the number of CPUs to be used in parallel. The function CleanGPFile: deletes the guide points located between two valve points, and it can extract septum, rv inserts, apex and valve points. **Note: Comment some of these functions if the labels are already present in GPFile**
+- process_gpfiles: use this script to post-process the newly created SliceInfoFile and GPFile. Tune parameter 'workers' to set the number of CPUs to be used in parallel. The function CleanGPFile: deletes the guide points located between two valve points, and it can extract septum, rv inserts, apex and valve points. 
